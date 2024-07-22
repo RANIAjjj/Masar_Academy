@@ -31,9 +31,9 @@ function Subscribtion() {
 
   return (
     <>
-      <section className="rcont1" style={bStyle}>
+      {/* <section className="rcont1" style={bStyle}>
 
-      </section>
+      </section> */}
 
       <section className="rcont2">
         {/* <div className="general-rule"> */}
